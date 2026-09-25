@@ -3,7 +3,7 @@
   "providerId": "claude",
   "title": "Take a look at the Job Description for the Sr",
   "createdAt": 1790375626782,
-  "lastActivityAt": 1790375660811,
+  "lastActivityAt": 1790376188524,
   "sessionId": "d3e48f80-3a82-46e6-8afd-6067d5a41cf5",
   "selectedModel": "sonnet",
   "providerState": {
@@ -12,10 +12,10 @@
   "usage": {
     "model": "sonnet",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 2042,
-    "cacheReadInputTokens": 32023,
+    "cacheCreationInputTokens": 1717,
+    "cacheReadInputTokens": 52348,
     "contextWindow": 967000,
-    "contextTokens": 34067,
-    "percentage": 4
+    "contextTokens": 54067,
+    "percentage": 6
   }
 }
