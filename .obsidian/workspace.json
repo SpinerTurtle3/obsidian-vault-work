@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "eb831e8697fdc8f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "76f7c9292ee87b5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "545e164868e255eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviews/Interview Questions/Sr. Software Engineer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sr. Software Engineer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80a6acabb64bb0ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "41fda132811a517c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3196e132ecc2ced",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "907501de989e063a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e405173afbf71a62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87d31fb2f780da69",
+    "type": "split",
+    "children": [
+      {
+        "id": "c624d8772b89d54c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a2010d9e68a5ad0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Interviews/Interview Questions/Sr. Software Engineer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7f532fe8a2816b50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Interviews/Interview Questions/Sr. Software Engineer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "efcc5a012ae5e152",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1667dcc1610b0100",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bbe72bddf3e142f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Interviews/Interview Questions/Sr. Software Engineer.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "cd6386971902314f",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1790375390921-mz7aejo",
+                      "conversationId": "conv-1790375626776-3fh674hkz"
+                    }
+                  ],
+                  "activeTabId": "tab-1790375390921-mz7aejo"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "3c270789952ec786",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 401.1666259765625
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cd6386971902314f",
+  "lastOpenFiles": [
+    "Interviews/Interview Questions/Sr. Software Engineer.md.tmp.8648.cbcd99bbda71",
+    "Interviews/Job Descriptions/Sr. Software Engineer.md",
+    "Interviews/Interview Questions/Sr. Software Engineer.md",
+    "Interviews/Job Descriptions/Workday Integrations Engineer.md",
+    "Interviews/Interview Questions",
+    "Untitled.md",
+    "Interviews/Untitled/desktop.ini",
+    "Interviews/Job Descriptions",
+    "Interviews/desktop.ini",
+    "Interviews"
+  ]
+}

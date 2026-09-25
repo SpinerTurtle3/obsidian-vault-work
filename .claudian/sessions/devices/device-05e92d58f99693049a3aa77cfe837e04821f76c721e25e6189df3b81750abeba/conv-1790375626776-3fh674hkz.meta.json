@@ -1,0 +1,21 @@
+{
+  "id": "conv-1790375626776-3fh674hkz",
+  "providerId": "claude",
+  "title": "Take a look at the Job Description for the Sr",
+  "createdAt": 1790375626782,
+  "lastActivityAt": 1790375660811,
+  "sessionId": "d3e48f80-3a82-46e6-8afd-6067d5a41cf5",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "d3e48f80-3a82-46e6-8afd-6067d5a41cf5"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 2042,
+    "cacheReadInputTokens": 32023,
+    "contextWindow": 967000,
+    "contextTokens": 34067,
+    "percentage": 4
+  }
+}
