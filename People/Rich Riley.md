@@ -1,4 +1,3 @@
 
 - with Keystone for about year
-- Responsible for thech stack
-- 
+- Responsible for tech stack

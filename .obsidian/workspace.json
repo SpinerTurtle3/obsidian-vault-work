@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "486f4625e70456ba",
+        "id": "715d9badc1a2e75c",
         "type": "tabs",
         "children": [
           {
-            "id": "489cb35c42a2a5b9",
+            "id": "e4967d8573ba752e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
-            }
-          },
-          {
-            "id": "9a2bb00a1122cf8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 3"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,34 +224,36 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9a2bb00a1122cf8e",
+  "active": "e4967d8573ba752e",
   "lastOpenFiles": [
-    "Projects/Projects.base",
+    "People/Harborstone SE Team.md",
+    "Assets/Attachments/Pasted image 20261113131750.png",
     "Untitled 3.md",
-    "Projects/Untitled",
-    "Untitled",
-    "Projects.base",
+    "Untitled 4.md",
+    "People/Rich Riley.md",
+    "People/Laurie Antoszewski.md",
+    "People/Keystone Interviews.md",
+    "Assets/Attachments/Pasted image 20261103122554.png",
+    "Assets/Attachments/Pasted image 20261020141856.png",
+    "Untitled.md",
+    "Assets/Attachments",
+    "Assets",
+    "Projects2/Untitled.base",
+    "Projects2",
+    "Untitled.base",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Interview with Team.md",
-    "Untitled.md",
-    "Pasted image 20261103122554.png",
-    "Pasted image 20261020141856.png",
-    "Interview with Laurie.md",
-    "New Job.md",
-    "Interviews/Interview Notes/Interviews.md",
-    "Interview with Rich.md",
     "Interview with Taylor.md",
-    "Interviews/Interview Questions/Sr. HRIS Administrator.md",
+    "People",
     "Corey N. 1-1.md",
+    "Projects/Projects.base",
+    "Projects/Untitled",
+    "Projects.base",
+    "Interviews/Interview Notes/Interviews.md",
+    "Interviews/Interview Questions/Sr. HRIS Administrator.md",
     "Interviews/Interview Questions/Sr. Software Engineer.md",
     "Interviews/Interview Questions/Workday Integrations Engineer.md",
     "Daily Notes",
-    "Projects/New Hire Intergration",
-    "Projects/Jobvite Data Migration",
-    "Projects",
-    "Interviews/Interview Notes/desktop.ini",
-    "Interviews/Interview Notes",
     "Interviews/Job Descriptions/Workday Integrations Engineer.md",
     "Interviews/Job Descriptions/Sr. HRIS Administrator.md",
     "Interviews/Job Descriptions/Sr. Software Engineer.md"
