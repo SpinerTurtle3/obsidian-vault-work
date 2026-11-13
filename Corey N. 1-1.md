@@ -1,0 +1,6 @@
+- Would like to get Repository and Synapse retired soon
+- Was on board with the approach to send someone to FabriCon and have them focus on key areas we need and for them to present to the greater team when they return.
+- Mentioned that he wonders what Duy does sometimes and that he tends to jump to execution before some thought into what needs to be done. Amath too, specifically the data monitoring thing for both of them. 
+- Also mentioned the need to get unstructed data into fabic, SharePoint was specifically mentioned but no details were discussed. 
+- Told him I was going to be looking into getting a board built to track the teams backlog and provide better visibility into our backlog and who is working on what. 
+- Informed him of my plan for the new Data Engineer contact position which he was good with. He suggested having the person we bring in look at Fabric (before Duy could get in his ear) and have them give us a assessment of what is good and what could use improvement. 
